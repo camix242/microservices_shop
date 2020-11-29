@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: circleci/python:3.8
-    working_directory: ~/microservces_vsqlite
+    working_directory: ~/microservices_shop
     steps:
       # Step 1: obtain repo from GitHub
       - checkout
@@ -25,8 +25,8 @@ jobs:
             nohup python app.py &
             python test_pedidos.py
       #Step 4: behave test
-      - run:
-          name: behave test
-          command: |
-            . venv/bin/activate
-            behave
+      # - run:
+      #     name: behave test
+      #     command: |
+      #       . venv/bin/activate
+      #       behave
