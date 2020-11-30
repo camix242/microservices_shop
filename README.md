@@ -37,6 +37,12 @@ Se manejan los roles asociados a unas funciones.
 
 ![Punto de Funciones del Negocio ](imagenes_vistas/FuncionesDelNegocio.png)
 
+## Vista de Venta Productos
+![Punto de Venta de Productos ](imagenes_vistas/Venta_Productos.png)
+
+## Vista de Cooperación de proceso de negocio
+![Punto de Cooperacion de proceso de negocio ](imagenes_vistas/Cooperacion_de_proceso_de_negocio.png)
+
 ## Vista de Aplicación
 ![Punto de Aplicación](imagenes_vistas/Aplicacion.png)
 
@@ -48,9 +54,6 @@ Se manejan los roles asociados a unas funciones.
 
 ## Vista de Contribución de Objetivos
 ![Punto de Contribución de objetivos ](imagenes_vistas/Contribución_Objetivos.png)
-
-## Vista de Cooperación de proceso de negocio
-![Punto de Cooperacion de proceso de negocio ](imagenes_vistas/Cooperacion_de_proceso_de_negocio.png)
 
 ## Vista de Estructura de información
 ![Punto de Estructura información ](imagenes_vistas/Estructura_información.png)
@@ -82,16 +85,8 @@ Se manejan los roles asociados a unas funciones.
 ## Vista de Uso de Aplicación
 ![Punto de Uso de la Aplicación ](imagenes_vistas/UsoApp.png)
 
-## Vista de Venta Productos
-![Punto de Venta de Productos ](imagenes_vistas/Venta_Productos.png)
 
+## Autores:scroll:
 
-## Explicación general del Código que se presenta
-
-```
-
-```
-## Explicación general del Código que se presenta :scroll:
-
-Nestor Camilo Beltrán 20202099021
-Edda Camila Rodríguez Mojica 20202099033
+Nestor Camilo Beltrán 20202099021 :woman:
+Edda Camila Rodríguez Mojica 20202099033 :man:
