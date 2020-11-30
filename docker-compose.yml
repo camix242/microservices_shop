@@ -1,4 +1,6 @@
 version: '2'
+# ALLOW_OVERRIDE=true
+
 services:
     nginx:
         image: nginx:alpine
@@ -8,6 +10,7 @@ services:
         links:
             - inventario
             - clientes
+            - pedidos
         ports:
             - "8080:80"
         
@@ -18,5 +21,10 @@ services:
 
     clientes:
         build: ./clientes
+        environment:
+            - ALLOW_OVERRIDE=true
+    
+    pedidos:
+        build: ./pedidos 
         environment:
             - ALLOW_OVERRIDE=true
