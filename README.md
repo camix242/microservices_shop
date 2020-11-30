@@ -86,14 +86,7 @@ Se manejan los roles asociados a unas funciones.
 ![Punto de Uso de la Aplicación ](imagenes_vistas/UsoApp.png)
 
 
+## Autores:scroll:
 
-
-## Explicación general del Código que se presenta
-
-```
-
-```
-## Explicación general del Código que se presenta :scroll:
-
-Nestor Camilo Beltrán 20202099021
-Edda Camila Rodríguez Mojica 20202099033
+Nestor Camilo Beltrán 20202099021 :woman:
+Edda Camila Rodríguez Mojica 20202099033 :man:
